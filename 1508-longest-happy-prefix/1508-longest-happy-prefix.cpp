@@ -23,7 +23,8 @@ public:
                 }
             }
         }
-        int len = lps.back(); // length of longest prefix-suffix
+        int len=lps[s.size()-1];
+       // int len = lps.back(); // length of longest prefix-suffix
         return s.substr(0, len);
     }
 };
