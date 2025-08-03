@@ -125,16 +125,22 @@ public:
         while(first<haystack.size() && second<needle.size())
         {
             if(haystack[first]==needle[second])
-            first++,second++;
+            {
+                first++,second++;
+            }
             else
             {
                 if(second==0)
-                first++;
+                {
+                    first++;
+                }
                 else
-                second=lps[second-1];
+                {
+                    second=lps[second-1];
+                }
             }
         }
-        if(needle.size()==second)
+        if(second==needle.size())
         return first-second;
 
         return -1;
