@@ -77,17 +77,14 @@ public:
             while(second<m)
             {
                 if(haystack[first]!=needle[second])
-                {
-                    break;
-                }
+                break;
                 else
-                {
-                    first++,second++;
-                }
+                first++,second++;
             }
             if(second==m)
             return first-second;
         }
+
         return -1;
     }
 };
