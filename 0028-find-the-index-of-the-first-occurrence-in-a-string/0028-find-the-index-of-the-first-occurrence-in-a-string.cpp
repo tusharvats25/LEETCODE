@@ -7,60 +7,87 @@
 // };
 
 
+//KMP O(N)
+// class Solution {
+// public:
+//     void lps_find(vector<int>&lps , string s)
+//     {
+//         int pre=0,suf=1;
+//         while(suf<s.size())
+//         {    //Match
+//             if(s[pre]==s[suf])
+//             {
+//                 lps[suf]=pre+1;
+//                 pre++,suf++;
+//             }
+            
+//             //Not Match
+//             else
+//             {
+//                 if(pre==0)
+//                 {
+//                      lps[suf]=0;
+//                      suf++;
+//                 }
+//                 else
+//                 {
+//                     pre=lps[pre-1];
+//                 }
+//             }
+//         }    
+//     }
+//     int strStr(string haystack, string needle) {
+//         vector<int>lps(needle.size(),0);
+//         lps_find(lps,needle);
+//         int first=0,second=0;
+//         while(first<haystack.size() && second<needle.size())
+//         {
+//             if(haystack[first]==needle[second])
+//             {
+//                 first++,second++;
+//             }
+//             else
+//             {
+//                 if(second==0)
+//                 {
+//                     first++;
+//                 }
+//                 else
+//                 {
+//                     second=lps[second-1];
+//                 }
+//             }
+//         }
+//         if(needle.size()==second)
+//         return first-second;
+
+//         return -1;
+//     }
+// };
+
+
 
 class Solution {
 public:
-    void lps_find(vector<int>&lps , string s)
-    {
-        int pre=0,suf=1;
-        while(suf<s.size())
-        {    //Match
-            if(s[pre]==s[suf])
-            {
-                lps[suf]=pre+1;
-                pre++,suf++;
-            }
-            
-            //Not Match
-            else
-            {
-                if(pre==0)
-                {
-                     lps[suf]=0;
-                     suf++;
-                }
-                else
-                {
-                    pre=lps[pre-1];
-                }
-            }
-        }    
-    }
     int strStr(string haystack, string needle) {
-        vector<int>lps(needle.size(),0);
-        lps_find(lps,needle);
-        int first=0,second=0;
-        while(first<haystack.size() && second<needle.size())
+        int n=haystack.size(),m=needle.size();
+        for(int i=0;i<=n-m;i++)
         {
-            if(haystack[first]==needle[second])
+            int first=i,second=0;
+            while(second<m)
             {
-                first++,second++;
-            }
-            else
-            {
-                if(second==0)
+                if(haystack[first]!=needle[second])
                 {
-                    first++;
+                    break;
                 }
                 else
                 {
-                    second=lps[second-1];
+                    first++,second++;
                 }
             }
+            if(second==m)
+            return first-second;
         }
-        if(needle.size()==second)
-        return first-second;
-
         return -1;
     }
 };
