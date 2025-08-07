@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tusharvats25/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharvats25/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharvats25/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tusharvats25/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharvats25/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,12 +119,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
+## Suffix Array
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
