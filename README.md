@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tusharvats25/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
