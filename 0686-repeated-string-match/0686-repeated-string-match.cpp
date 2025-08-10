@@ -1,3 +1,4 @@
+//KMP O(N) SOLUTION
 class Solution {
 public:
      //CREATED
