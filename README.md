@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tusharvats25/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharvats25/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/tusharvats25/LEETCODE/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 ## Rolling Hash
 |  |
 | ------- |
