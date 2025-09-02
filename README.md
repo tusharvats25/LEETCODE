@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -137,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+## Tree
+|  |
+| ------- |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
