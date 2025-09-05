@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
+| [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharvats25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tusharvats25/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tusharvats25/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tusharvats25/LEETCODE/tree/master/0018-4sum) |
+| [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Rolling Hash
 |  |
