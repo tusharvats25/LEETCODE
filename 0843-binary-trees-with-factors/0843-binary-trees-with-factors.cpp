@@ -3,24 +3,24 @@ class Solution {
 public:
     int numFactoredBinaryTrees(vector<int>& arr) {
         const int mod=1e9+7;
-        unordered_map<int,long long>dp;
+        unordered_map<int,long long>mp;
         set<int>st;
-        for (int it : arr) 
+        for (int i : arr) 
         {
-            dp[it]=1; // Each number can be a tree by itself
+            mp[i]=1; // Each number can be a tree by itself
         }
         sort(arr.begin(), arr.end());
-        for (int it : arr) {
-            for (int a : st) {
-                if (it%a==0 && dp.count(it/a)) 
+        for (int i : arr) {
+            for (int j : st) {
+                if (i%j==0 && mp.count(i/j)) 
                 {
-                    dp[it]=(dp[it]+dp[a]*dp[it/a])%mod;
+                    mp[i]=(mp[i]+mp[j]*mp[i/j])%mod;
                 }
             }
-            st.insert(it);
+            st.insert(i);
         }
         long long result=0;
-        for (const auto& pair : dp) {
+        for (const auto& pair : mp) {
             result=(result+pair.second)%mod;
         }
         return result;
