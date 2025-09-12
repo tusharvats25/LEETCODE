@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/tusharvats25/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [1008-binary-tree-cameras](https://github.com/tusharvats25/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/tusharvats25/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/tusharvats25/LEETCODE/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/tusharvats25/LEETCODE/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
