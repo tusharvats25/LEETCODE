@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharvats25/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
