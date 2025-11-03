@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tusharvats25/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tusharvats25/LEETCODE/tree/master/0070-climbing-stairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tusharvats25/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Greedy
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tusharvats25/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tusharvats25/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
