@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
+| [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharvats25/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
+| [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/tusharvats25/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/tusharvats25/LEETCODE/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
