@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharvats25/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/tusharvats25/LEETCODE/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/tusharvats25/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tusharvats25/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharvats25/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tusharvats25/LEETCODE/tree/master/0031-next-permutation) |
+| [0696-count-binary-substrings](https://github.com/tusharvats25/LEETCODE/tree/master/0696-count-binary-substrings) |
 ## Trie
 |  |
 | ------- |
