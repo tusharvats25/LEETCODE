@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
+| [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 | [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharvats25/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tusharvats25/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 | [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
 ## Math
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/tusharvats25/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/tusharvats25/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/tusharvats25/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [1508-longest-happy-prefix](https://github.com/tusharvats25/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/tusharvats25/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tusharvats25/LEETCODE/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
