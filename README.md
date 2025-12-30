@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tusharvats25/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 | [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharvats25/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tusharvats25/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tusharvats25/LEETCODE/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 ## Stack
 |  |
@@ -206,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
