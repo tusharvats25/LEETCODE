@@ -51,7 +51,9 @@ public:
             int complement=target-nums[i];
             if(mp.find(complement)!=mp.end())
             return {i,mp[complement]};
-            mp[nums[i]]=i;
+            //mp[nums[i]]=i;
+            //mp.insert({nums[i], i});
+            mp.emplace(nums[i], i);
         }
         return {};
     }
