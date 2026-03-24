@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tusharvats25/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tusharvats25/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/tusharvats25/LEETCODE/tree/master/0231-power-of-two) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tusharvats25/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Greedy
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tusharvats25/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tusharvats25/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/tusharvats25/LEETCODE/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tusharvats25/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/tusharvats25/LEETCODE/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
