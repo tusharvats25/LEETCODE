@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvats25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/tusharvats25/LEETCODE/tree/master/0494-target-sum) |
 | [0819-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tusharvats25/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvats25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/tusharvats25/LEETCODE/tree/master/0837-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
