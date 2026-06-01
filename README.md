@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
 | [0997-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/tusharvats25/LEETCODE/tree/master/1039-find-the-town-judge) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tusharvats25/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharvats25/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tusharvats25/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tusharvats25/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tusharvats25/LEETCODE/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0843-binary-trees-with-factors](https://github.com/tusharvats25/LEETCODE/tree/master/0843-binary-trees-with-factors) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tusharvats25/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tusharvats25/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
