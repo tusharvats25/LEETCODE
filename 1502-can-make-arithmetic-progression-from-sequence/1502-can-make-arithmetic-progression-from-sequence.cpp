@@ -1,3 +1,4 @@
+//Beats 100%/ 0ms / 113/113
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
