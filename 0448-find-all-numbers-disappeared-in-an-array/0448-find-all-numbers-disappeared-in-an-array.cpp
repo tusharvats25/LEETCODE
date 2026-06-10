@@ -21,7 +21,7 @@
 // };
 
 
-//Perfect Approach
+//Perfect Approach //35/35
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
