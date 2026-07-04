@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tusharvats25/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/tusharvats25/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tusharvats25/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharvats25/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tusharvats25/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvats25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharvats25/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharvats25/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tusharvats25/LEETCODE/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharvats25/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/tusharvats25/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -192,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharvats25/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharvats25/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/tusharvats25/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tusharvats25/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
